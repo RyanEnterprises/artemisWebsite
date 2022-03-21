@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "outDir": "src/js",
+        "target": "es2019"
+    },
+    "files": [
+        "src/ts/indexDeclarations.ts",
+        "src/ts/main.ts",
+        "src/ts/UAdetect.ts"
+    ],
+}
