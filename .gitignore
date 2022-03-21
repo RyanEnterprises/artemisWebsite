@@ -25,3 +25,6 @@ dist-ssr
 
 ./bin
 bin/artemis-4.0.0-full.zip
+bin/artemis-v.4.0.0.tar.gz
+bin/artemis-v.4.0.0.zip
+bin/ArtemisUserInstaller.exe
