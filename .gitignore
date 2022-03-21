@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+./bin
+bin/artemis-4.0.0-full.zip
