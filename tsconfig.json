@@ -5,8 +5,7 @@
     },
     "files": [
         "src/ts/indexDeclarations.ts",
-        "src/ts/main.ts",
         "src/ts/UAdetect.ts",
-        "src/ts/downloadDeclarations.ts",
+        "src/ts/main.ts",
     ],
 }
